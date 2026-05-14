@@ -1,2 +1,21 @@
-# AI-Resume-screener
-AI-powered Resume Screening System using Python, NLP, and Streamlit that matches resumes with job descriptions and calculates compatibility scores.
+## Features
+
+- Resume PDF Upload
+- Job Description Matching
+- Resume Match Percentage
+- Skill Detection
+- Simple UI
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Scikit-learn
+- PyPDF2
+- NLP
+
+## Run Project
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py

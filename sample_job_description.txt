@@ -1,0 +1,8 @@
+We are looking for a Python Developer with knowledge of:
+
+- Python
+- Django
+- SQL
+- HTML/CSS
+- Machine Learning
+- Problem Solving
